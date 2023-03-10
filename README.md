@@ -10,4 +10,4 @@ Công cụ: Android studio, máy ảo genymotion
 
 Database: SQLite
 
-Video demo: 
+Video demo: https://youtu.be/XCCVkb2hF2E
