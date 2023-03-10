@@ -5,7 +5,9 @@ Học kỳ 1 năm 3
 
 
 Ngôn ngữ: Java
+
 Công cụ: Android studio, máy ảo genymotion
+
 Database: SQLite
 
 Video demo: 
